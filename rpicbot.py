@@ -1,4 +1,3 @@
 import praw
 
-reddit = praw.Reddit();
-
+reddit = praw.Reddit('bot');
